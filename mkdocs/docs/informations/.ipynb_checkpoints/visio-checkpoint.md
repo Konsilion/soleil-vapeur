@@ -5,7 +5,7 @@ hide:
 
 # Visioconférence
 
-[Lien vers la visio du projet](https://meet.jit.si/FUC_low-tech_Rhone-Alpes)
+[Lien vers la visio du projet](https://meet.jit.si/soleil-vapeur)
 
 
 ---

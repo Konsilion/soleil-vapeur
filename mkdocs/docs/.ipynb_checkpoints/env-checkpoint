@@ -11,13 +11,13 @@ theme:
   language: fr
   palette:
     scheme: default
-    primary: green
+    primary: black
 
 
 # REPERTOIRE GIT DE VOTRE PROJET (GitHUB uniquement pour le moment)
 
-repo_url: https://github.com/Konsilion/FUC
-repo_name: FUC/
+repo_url: https://github.com/Konsilion/soleil-vapeur
+repo_name: soleil-vapeur/
 edit_uri: blob/master/mkdocs/docs
 
 
@@ -25,12 +25,9 @@ edit_uri: blob/master/mkdocs/docs
 
 nav:
   - Accueil: index.md
-  - Le FUC ?:
-      - Forum des Usages Coopératifs: informations/presentation_FUC.md
-  - Les sessions Low-tech:
-      - sessions/mercredi_06072022.md
-      - sessions/jeudi_07072022.md
-      - sessions/vendredi_08072022.md
+  - Soleil vapeur:
+      - contenu/README.md
+      - contenu/documentation.md
   - Communauté:
       - Documentation collaborative ?: informations/premiers_pas.md
       - informations/pad.md
