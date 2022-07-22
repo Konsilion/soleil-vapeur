@@ -17,3 +17,7 @@ plugins:
   - macros
   - mkdocs-jupyter
   - search
+  
+extra:
+  version:
+    provider: mike

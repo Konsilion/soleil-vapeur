@@ -18,8 +18,7 @@ theme:
 
 repo_url: https://github.com/Konsilion/soleil-vapeur
 repo_name: soleil-vapeur/
-edit_uri: blob/doc/mkdocs/docs
-edit_url: edit/doc/mkdocs/docs
+edit_uri: blob/master/mkdocs/docs
 
 # TOUTE VOTRE DOCUMENTATION
 
