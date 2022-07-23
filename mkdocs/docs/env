@@ -11,8 +11,8 @@ theme:
   language: fr
   palette:
     scheme: default
-    primary: black
-    accent: indigo
+    primary: blue
+    accent: green
 
 
 # REPERTOIRE GIT DE VOTRE PROJET (GitHUB uniquement pour le moment)
