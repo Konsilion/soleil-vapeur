@@ -12,6 +12,7 @@ theme:
   palette:
     scheme: default
     primary: black
+    accent: green
 
 
 # REPERTOIRE GIT DE VOTRE PROJET (GitHUB uniquement pour le moment)
@@ -23,18 +24,7 @@ edit_uri: blob/master/mkdocs/docs
 # TOUTE VOTRE DOCUMENTATION
 
 nav:
-  - Accueil: index.md
-  - Soleil vapeur:
-      - contenu/README.md
-      - contenu/documentation.md
-  - Communauté:
-      - Documentation collaborative ?: informations/premiers_pas.md
-      - informations/pad.md
-      - informations/chat.md
-      - informations/visio.md
-      - Contacts: 
-          - informations/contacts.md
-      
+  - Solaire vapeur: README.md     
 
 # MENTIONS LEGALES
 
