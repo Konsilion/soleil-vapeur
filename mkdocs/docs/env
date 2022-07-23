@@ -12,6 +12,7 @@ theme:
   palette:
     scheme: default
     primary: black
+    accent: indigo
 
 
 # REPERTOIRE GIT DE VOTRE PROJET (GitHUB uniquement pour le moment)
