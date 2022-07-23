@@ -18,8 +18,7 @@ theme:
 
 repo_url: https://github.com/Konsilion/soleil-vapeur
 repo_name: soleil-vapeur/
-edit_uri: blob/doc/mkdocs/docs
-edit_url: edit/doc/mkdocs/docs
+edit_uri: blob/master/mkdocs/docs
 
 # TOUTE VOTRE DOCUMENTATION
 
@@ -50,3 +49,7 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/konsilion/
       name: Retrouvez-nous sur Linkedin
+  version:
+      provider: mike
+      javascript_dir: js
+      

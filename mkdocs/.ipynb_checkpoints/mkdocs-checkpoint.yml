@@ -12,12 +12,9 @@ theme:
     - search.suggest 
   icon: 
     repo: fontawesome/brands/git
- 
 plugins:
   - macros
   - mkdocs-jupyter
   - search
-  
-extra:
-  version:
-    provider: mike
+  - mike
+    

@@ -49,3 +49,7 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/konsilion/
       name: Retrouvez-nous sur Linkedin
+  version:
+      provider: mike
+      javascript_dir: js
+      
