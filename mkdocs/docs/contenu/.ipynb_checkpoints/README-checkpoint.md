@@ -279,3 +279,11 @@ vrai coût technologique et économique de l'énergie.
 
 ![](photos/photo2.jpg) 
 
+
+
+<style>
+  body {text-align: justify}
+  .md-content__button {
+    display: none;
+  }
+</style>

@@ -3,7 +3,9 @@
 site_name: Solaire Vapeur
 site_author: Emmanuel Laurent, Nicolas Brémond
 site_description: >-
-  (Description du site)
+  Cours explicatif sur la technologie solaire-vapeur
+
+
 
 # LANGUE ET COULEUR
 
@@ -11,7 +13,9 @@ theme:
   language: fr
   palette:
     scheme: default
-    primary: black
+    primary: blue
+    accent: green
+
 
 
 # REPERTOIRE GIT DE VOTRE PROJET (GitHUB uniquement pour le moment)
@@ -20,7 +24,9 @@ repo_url: https://github.com/Konsilion/soleil-vapeur
 repo_name: soleil-vapeur/
 edit_uri: blob/master/mkdocs/docs
 
-# TOUTE VOTRE DOCUMENTATION
+
+
+# ORGANISATION DE VOTRE DOCUMENTATION
 
 nav:
   - Accueil: index.md
@@ -28,17 +34,20 @@ nav:
       - contenu/README.md
       - contenu/documentation.md
   - Communauté:
-      - Documentation collaborative ?: informations/premiers_pas.md
+      - Documentation collaborative ?: contenu/premiers_pas.md
       - informations/pad.md
       - informations/chat.md
       - informations/visio.md
       - Contacts: 
-          - informations/contacts.md
-      
+          - contenu/contacts.md
+        
+        
+        
+# MENTIONS JURIDIQUES
 
-# MENTIONS LEGALES
+copyright: Licence juridique Creative Commons CC-BY-SA 4.0
 
-copyright: Proposé par Konsilion ingénieries et basé sur MkDocs - Ce document est régi par les termes de la licence juridique Creative Commons CC-BY-SA 4.0
+
 
 
 # LIENS EXTERNES

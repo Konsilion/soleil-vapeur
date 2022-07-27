@@ -12,9 +12,16 @@ theme:
     - search.suggest 
   icon: 
     repo: fontawesome/brands/git
+
 plugins:
   - macros
-  - mkdocs-jupyter
   - search
   - mike
-    
+  - with-pdf:
+      exclude_pages:
+        - 'informations'
+      toc_level: 1
+      cover_subtitle: Indiquer ici le sous-titre du rapport
+      cover_logo: ./docs/logo.png
+      toc_title: Table des matières
+      output_path: ../Documentation.pdf
